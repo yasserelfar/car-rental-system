@@ -1,0 +1,8 @@
+﻿  Source.cpp
+d:\finalproject\finalproject\functions.h(284): warning C4018: '<': signed/unsigned mismatch
+d:\finalproject\finalproject\functions.h(287): warning C4018: '<': signed/unsigned mismatch
+d:\finalproject\finalproject\functions.h(331): warning C4018: '<': signed/unsigned mismatch
+d:\finalproject\finalproject\functions.h(362): warning C4018: '<': signed/unsigned mismatch
+d:\finalproject\finalproject\functions.h(411): warning C4018: '<': signed/unsigned mismatch
+d:\finalproject\finalproject\source.cpp(41): warning C4018: '<': signed/unsigned mismatch
+  FinalProject.vcxproj -> D:\FinalProject\Debug\FinalProject.exe
